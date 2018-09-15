@@ -29,10 +29,20 @@
 - EJS
 
 ### バージョン管理
-GUI を利用した Git、Mercurial の基本的な操作と git-flow または GitHub Flow を用いたブランチの運用。
+GUI を利用した Git、Mercurial の基本的な操作と git-flow または GitHub Flow によるブランチの運用。
+
+## やってみたいこと
+- JavaScript フレームワークを利用した Web アプリ制作
 
 ## 職務経歴
 
 ### 2015/8: 株式会社アンティー・ファクトリー
 
 職務: マークアップエンジニア
+
+#### マルチデバイス環境での Web サイト制作
+
+- テンプレートエンジンを利用したマークアップ
+- 各種 CMS におけるテンプレート HTML の設計
+- FLOCSS や ECSS などの設計思想による CSS 設計
+- jQuery などのライブラリを利用した JavaScript 実装
