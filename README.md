@@ -8,6 +8,7 @@
 |GitHub|[toshifumiimanishi](https://github.com/toshifumiimanishi)|
 |Twitter|[@toshimarnie](https://twitter.com/toshimarnie)|
 |Qiita|[toshifumiimanishi](https://qiita.com/toshifumiimanishi)|
+|Speaker Deck|[toshifumiimanishi](https://speakerdeck.com/toshifumiimanishi)|
 
 ### 言語
 
