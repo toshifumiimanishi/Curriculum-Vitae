@@ -24,19 +24,22 @@
 |JavaScript|3 年以上の経験|
 
 ### フレームワーク・ライブラリ
-- jQuery
+- jQuery, Vue.js
 
 ### テンプレートエンジン
-- EJS
+- EJS, Pug, Nunjucks
 
 ### タスクランナー
 - gulp
 
+### モジュールバンドラー
+- webpack
+
 ### バージョン管理
-GUI（Sourcetree）を利用した Git、Mercurial の基本的な操作と git-flow または GitHub Flow によるブランチの運用。
+Git, Mercurial の基本的な操作と git-flow または GitHub Flow によるブランチの運用。
 
 ## やってみたいこと
-- JavaScript フレームワークを利用した Web アプリ制作
+- JavaScript フレームワークを利用した Web ソリューション
 
 ## 職務経歴
 
