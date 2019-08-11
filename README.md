@@ -24,19 +24,24 @@
 |JavaScript|3 年以上の経験|
 
 ### フレームワーク・ライブラリ
-- jQuery, Vue.js
+- jQuery
+- Vue.js
 
 ### テンプレートエンジン
-- EJS, Pug, Nunjucks
+- EJS
+- Pug
+- Nunjucks
 
 ### タスクランナー
 - gulp
 
 ### モジュールバンドラー
 - webpack
+- rollup.js
 
 ### バージョン管理
-Git, Mercurial の基本的な操作と git-flow または GitHub Flow によるブランチの運用。
+- Git
+- Mercurial
 
 ## やってみたいこと
 - JavaScript フレームワークを利用した Web ソリューション
