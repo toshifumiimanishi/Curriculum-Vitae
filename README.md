@@ -25,6 +25,8 @@
 
 ### フレームワーク・ライブラリ
 - jQuery
+- React
+- Next.js
 - Vue.js
 - Nuxt.js
 
